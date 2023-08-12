@@ -4,8 +4,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amol-chitale) 
-[![Leetcode](![image](https://github.com/AmolChi/AmolChi/assets/75240926/1a846571-2e71-48c8-8452-1767fc053d49)
-](https://leetcode.com/GrimReaper3005/)
+[![Leetcode]](https://leetcode.com/GrimReaper3005/)
 
 
 # 💻 Tech Stack:
