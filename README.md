@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amol-chitale) 
-[![LeetCode user GrimReaper3005](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Rating&query=rating&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FGrimReaper3005&logo=leetcode&logoColor=yellow)](https://leetcode.com/GrimReaper3005/)
+[![LeetCode user GrimReaper3005](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Rating&query=rating&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FGrimReaper3005&logo=leetcode&logoColor=yellow)](https://leetcode.com/GrimReaper3005/)
 [![LeetCode user GrimReaper3005](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FGrimReaper3005&logo=leetcode&logoColor=yellow)](https://leetcode.com/GrimReaper3005/)
 
 
