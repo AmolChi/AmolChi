@@ -4,7 +4,8 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amol-chitale) 
-[![Leetcode](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FFortAwesome%2FFont-Awesome%2Fissues%2F17311&psig=AOvVaw1d_UC4wbMX0w5PtqAn0GIH&ust=1691932080037000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjg5qWY14ADFQAAAAAdAAAAABAE)](https://leetcode.com/GrimReaper3005/)
+[![Leetcode](![image](https://github.com/AmolChi/AmolChi/assets/75240926/1a846571-2e71-48c8-8452-1767fc053d49)
+](https://leetcode.com/GrimReaper3005/)
 
 
 # 💻 Tech Stack:
