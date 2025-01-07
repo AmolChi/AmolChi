@@ -1,5 +1,5 @@
 # 💫 About Me:
-🟢Currently enrolled in Bachelors' in Computer Science Engineering in DIT University<br>👯Up for Collaborations in Java/Javascript/React<br>🤝Looking for help in React<br>🌱Currently learning Solidity Basics<br>💡Always keen to learn new things and up for challenges
+🟢Currently enrolled in Masters in Computer Science Engineering at Philipps University, Marburg (Germany)<br>👯Up for Collaborations in Java/Javascript/React<br>🤝Looking for help in React<br>🌱Currently learning Solidity Basics<br>💡Always keen to learn new things and up for challenges
 
 
 ## 🌐 Socials:
